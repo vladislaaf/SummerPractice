@@ -1,0 +1,30 @@
+.header{
+  background-color: #ffffff;
+}
+.inner-header{
+  background: #ffffff;
+}
+.hd:hover {
+  background-color: #eef2f7;
+}
+button {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background: #ffffff;
+    color: black;
+    border: 0;
+}
+
+button:hover {
+    background-color: #293446;
+    color: white;
+}
+.middle{
+  background-color: #ffffff;
+}
+.blok{
+  background-color: #eef2f7;
+}
+.wrap-bot a{
+  color: black;
+}
